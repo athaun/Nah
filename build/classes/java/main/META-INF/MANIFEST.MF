@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: Bot
+Class-Path: vavr-0.10.1.jar okio-1.14.0.jar log4j-api-2.11.0.jar javacor
+ d-core-3.1.2.jar jackson-core-2.9.3.jar gson-2.8.6.jar nv-websocket-cli
+ ent-2.6.jar xsalsa20poly1305-0.10.1.jar bcprov-jdk15on-1.59.jar logging
+ -interceptor-3.9.1.jar vavr-match-0.10.1.jar jackson-databind-2.9.3.jar
+  okhttp-3.9.1.jar jackson-annotations-2.9.0.jar javacord-api-3.1.2.jar
+
